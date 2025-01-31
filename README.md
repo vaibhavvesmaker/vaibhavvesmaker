@@ -1,6 +1,7 @@
 
 # **Hi there, I'm Vaibhav Vesmaker!** 👋  
-![Data Visualization](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![AI & ML](https://source.unsplash.com/featured/?ai,machinelearning)
+
 
 
 ### **👨‍🎓 Pursuing Master’s in IT & Analytics at Rutgers University**  
