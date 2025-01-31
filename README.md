@@ -1,5 +1,7 @@
 
 # **Hi there, I'm Vaibhav Vesmaker!** 👋  
+![Data Science](https://media.giphy.com/media/2wVDccBvUZE0n7x1mI/giphy.gif)
+
 
 ### **👨‍🎓 Pursuing Master’s in IT & Analytics at Rutgers University**  
 📊 **Data Enthusiast | Financial Analytics | Project Management | Business Intelligence**  
