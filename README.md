@@ -11,6 +11,8 @@
 - **Business Intelligence**: Expertise in building dashboards, financial modeling, and advanced analytics with DAX.  
 - **ETL & Data Engineering**: Skilled in building and optimizing ETL pipelines using SQL and Python.  
 - **Project Management**: Experienced in managing cross-functional teams, task tracking, and delivering high-value projects.  
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ---
 
