@@ -1,6 +1,6 @@
 
 # **Hi there, I'm Vaibhav Vesmaker!** 👋  
-![Data Science](https://media.giphy.com/media/2wVDccBvUZE0n7x1mI/giphy.gif)
+![Data Visualization](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 
 ### **👨‍🎓 Pursuing Master’s in IT & Analytics at Rutgers University**  
