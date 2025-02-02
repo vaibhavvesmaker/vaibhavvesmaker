@@ -50,15 +50,15 @@
 ---
 
 ### **📄 Explore My Work**  
-- **Portfolio**: [View Portfolio](#)  
-- **GitHub**: [View GitHub](https://www.linkedin.com/in/vaibhav-vesmaker-5368841b6/)  
+- **Portfolio**: [View Portfolio](https://vaibhavvesmaker.framer.website/)  
+- **GitHub**: [View GitHub](https://github.com/vaibhavvesmaker)  
 
 ---
 
 ### **📬 Let’s Connect!**  
 - 📧 Email: [vaibhav.vesmaker@rutgers.edu](mailto:vaibhav.vesmaker@rutgers.edu)  
-- 🔗 LinkedIn: [View LinkedIn](#)  
+- 🔗 LinkedIn: [View LinkedIn](https://www.linkedin.com/in/vaibhav-vesmaker-5368841b6/)   
 
 ---
 
-This version highlights your expertise, projects, and professional goals while maintaining clarity and a clean structure. Let me know if you'd like any additional tweaks!
+
