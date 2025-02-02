@@ -51,7 +51,7 @@
 
 ### **📄 Explore My Work**  
 - **Portfolio**: [View Portfolio](#)  
-- **GitHub**: [View GitHub](#)  
+- **GitHub**: [View GitHub]((https://www.linkedin.com/in/vaibhav-vesmaker-5368841b6/))  
 
 ---
 
