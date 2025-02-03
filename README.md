@@ -35,7 +35,7 @@
 ---
 
 ### **📂 Featured Projects**  
-**[Financial Reporting & Analysis with Power BI](#)**  
+**[Financial Reporting & Analysis with Power BI](https://github.com/vaibhavvesmaker/FinDataProj)**  
 - Developed an interactive dashboard analyzing sales data for India’s top 500 companies.  
 - Tools: Power BI, DAX, SQL, Python.  
 
