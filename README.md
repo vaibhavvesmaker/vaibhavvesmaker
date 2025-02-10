@@ -57,8 +57,8 @@
 
 ### **📬 Let’s Connect!**  
 - 📧 Email: [vaibhav.vesmaker@rutgers.edu](mailto:vaibhav.vesmaker@rutgers.edu)  
-- 🔗 LinkedIn: [View LinkedIn](https://www.linkedin.com/in/vaibhav-vesmaker-5368841b6/)   
-
+- 🔗 LinkedIn: [View LinkedIn](https://www.linkedin.com/in/vaibhav-vesmaker-5368841b6/)
+  
 ---
 
 
