@@ -24,7 +24,6 @@
 - **Tableau Desktop Certified Associate** – CISCO  
 - **SQL for Exploratory Data Analysis** – LinkedIn Learning  
 - Actively pursuing **PMP Certification**  
-
 ---
 
 ### **📌 Current Projects**  
