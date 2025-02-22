@@ -36,6 +36,22 @@
 - **Project Management**: Experienced in managing cross-functional teams, task tracking, and delivering high-value projects.  
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+Programming Languages:
+  - Python (Pandas, NumPy, Scikit-Learn)
+  - R (Tidyverse, Shiny)
+  - SQL (MySQL, PostgreSQL)
+
+Data Visualization & BI:
+  - Power BI, Tableau, Matplotlib, Seaborn
+
+Data Engineering:
+  - ETL Pipelines, Airflow, Docker
+  - DBT, Snowflake
+
+Other Technologies:
+  - Git & GitHub, Notion, Slack
+  - Cloud Platforms (AWS, Azure)
+  - Marketing Tools (Marketo, HubSpot)
 
 ---
 
