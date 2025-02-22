@@ -1,6 +1,24 @@
- 
-# **Hi there, I'm Vaibhav Vesmaker!** 👋   
-# I post projects DAILY!
+## Hi there, I'm Vaibhav Vesmaker! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+
+**_Data Enthusiast | Daily Project Builder | Continuous Learner_**  
+**_Specializing in Data Science & Analytics, with a passion for creative problem-solving!_**
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 **Building new data projects every day** and pushing them here on GitHub!
+- 📊 Currently focusing on **Data Visualization, Data Engineering, and Advanced Analytics**.
+- 🌱 Expanding my skillset in **Python, SQL, R**, and refining my **ETL & automation** abilities.
+- 💡 I love bridging **technical solutions** with **business value**, especially in the fields of **finance, marketing, and healthcare** analytics.
+- 🌎 Based in the USA, working with **CoreCentrica LLC** and finishing my **Master’s in IT & Analytics at Rutgers**.
+
+```diff
++ I thrive on experimenting with new libraries, frameworks, 
++ and challenging datasets to uncover impactful insights!
+ ```
+
+
 ![Data Visualization](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 
