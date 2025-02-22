@@ -17,7 +17,8 @@
 + I thrive on experimenting with new libraries, frameworks, 
 + and challenging datasets to uncover impactful insights!
  ```
-
+🤹‍♀️ Fun Fact
+I’m obsessed with experimental cooking—whipping up new recipes while listening to my favorite music playlist. If you see a random 2 a.m. commit, it’s likely me perfecting a script… right after perfecting a lasagna. <img src="https://media.giphy.com/media/3oEjHCMvQMgE0G8vIc/giphy.gif" width="45" />
 
 ![Data Visualization](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
