@@ -37,6 +37,7 @@ I’m obsessed with experimental cooking—whipping up new recipes while listeni
 - **Project Management**: Experienced in managing cross-functional teams, task tracking, and delivering high-value projects.  
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+```diff
 Programming Languages:
   - Python (Pandas, NumPy, Scikit-Learn)
   - R (Tidyverse, Shiny)
@@ -54,11 +55,13 @@ Other Technologies:
   - Cloud Platforms (AWS, Azure)
   - Marketing Tools (Marketo, HubSpot)
 
----
+```
 
  Quick Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavvesmaker&show_icons=true&theme=dracula" width="400"/>	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvesmaker&layout=compact&theme=dracula" width="335"/>
 
+```diff
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavvesmaker&show_icons=true&theme=dracula" width="400"/>	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvesmaker&layout=compact&theme=dracula" width="335"/>
+```
 ### **🎓 Certifications**  
 - **Tableau Desktop Certified Associate** – CISCO  
 - **SQL for Exploratory Data Analysis** – LinkedIn Learning  
