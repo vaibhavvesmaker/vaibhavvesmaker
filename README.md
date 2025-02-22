@@ -59,9 +59,11 @@ Other Technologies:
 
  Quick Stats
 
-```diff
+
 <img src="https://github-readme-stats.vercel.app/api?username=vaibhavvesmaker&show_icons=true&theme=dracula" width="400"/>	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvesmaker&layout=compact&theme=dracula" width="335"/>
-```
+
+
+
 ### **🎓 Certifications**  
 - **Tableau Desktop Certified Associate** – CISCO  
 - **SQL for Exploratory Data Analysis** – LinkedIn Learning  
