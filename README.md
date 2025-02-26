@@ -5,7 +5,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 - 🔭 **Building new data projects every day** and pushing them here on GitHub!
 - 📊 Currently focusing on **Data Visualization, Data Engineering, and Advanced Analytics**.
