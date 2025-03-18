@@ -83,7 +83,7 @@ Other Technologies:
 - Tools: Power BI, DAX, SQL, Python.  
 
 **[Time Series Forecasting for Financial Data](#)**  
-- Built predictive models and visualized key insights for financial decision-making.  
+- Built predictive models and visualized key insights for financial decision-making.   
 - Tools: Python, R, Power BI.  
 
 **[Comprehensive Financial Dashboard](#)**  
