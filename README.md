@@ -93,7 +93,7 @@ Other Technologies:
 ---
 
 ### **📄 Explore My Work**  
-- **Portfolio**: [View Portfolio](https://vaibhavvesmaker.framer.website/](https://vaibhavvesmaker.netlify.app )  
+- **Portfolio**: [View Portfolio](https://vaibhavvesmaker.netlify.app)  
 - **GitHub**: [View GitHub](https://github.com/vaibhavvesmaker)  
 
 ---
