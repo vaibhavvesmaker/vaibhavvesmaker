@@ -11,7 +11,7 @@
 - 📊 Currently focusing on **Data Visualization, Data Engineering, and Advanced Analytics**.
 - 🌱 Expanding my skillset in **Python, SQL, R**, and refining my **ETL & automation** abilities.
 - 💡 I love bridging **technical solutions** with **business value**, especially in the fields of **finance, marketing, and healthcare** analytics.
-- 🌎 Based in the USA, working with **CoreCentrica LLC** and finishing my **Master’s in IT & Analytics at Rutgers**.
+- 🌎 Based in the USA, working with **Polestar Automative USA** and completed my **Master’s in IT & Analytics at Rutgers**.
 
 ```diff
 + I thrive on experimenting with new libraries, frameworks, 
@@ -25,7 +25,7 @@ I’m obsessed with experimental cooking—whipping up new recipes while listeni
 
 
 
-### **👨‍🎓 Pursuing Master’s in IT & Analytics at Rutgers University**  
+### **👨‍🎓 Master’s in IT & Analytics at Rutgers University**  
 📊 **Data Enthusiast | Financial Analytics | Project Management | Business Intelligence**  
 
 ---
