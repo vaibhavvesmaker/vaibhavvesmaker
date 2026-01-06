@@ -22,6 +22,45 @@ I’m obsessed with experimental cooking—whipping up new recipes while listeni
 
 ![Data Visualization](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
+<!-- ====== EXPERIENCE ====== -->
+<h2>💼 Experience</h2>
+
+### 🚗 Polestar Automotive HQ, USA — Data & Financial Analyst Intern  
+**June 2025 – Present**
+
+- Analyzed **commercial and financial performance** across Polestar and Volvo Cars Financial Services (VCFS) by integrating **SAP, market, and internal datasets** to explain variance drivers and business outcomes.
+- Designed and maintained **Power BI semantic models** (relationships, calculated columns, measures), improving **scalability, refresh stability, and metric consistency** across reports.
+- Developed advanced **DAX measures** for KPIs, variance-to-plan, and driver decomposition, enabling **deep drill-down analysis** and standardized metric definitions across stakeholders.
+- Built and owned **executive-level dashboards** following visualization best practices, reducing **manual analysis effort by 30%+** and accelerating decision cycles.
+- Performed **pre/post and comparative analyses** on pricing, accrual, and impairment logic using **SQL, Excel, and Python**, supporting evaluation across **$50M+ in monthly portfolio volume**.
+- Authored and maintained **technical documentation** (data lineage, model logic, DAX definitions, validation checks), strengthening **audit readiness and knowledge transfer**.
+
+---
+
+### 📊 CoreCentrica LLC, USA — Technical Project Manager, Finance Intelligence  
+**June 2024 – July 2025**
+
+- Delivered **Power BI dashboards and data models** supporting budgeting, pricing, and forecasting initiatives across multiple business lines.
+- Built **SQL-driven datasets and transformations** to standardize inputs, improve data quality, and enable **repeatable, scalable reporting**.
+- Partnered cross-functionally with **Engineering, Finance, and Operations** to define KPIs, metric logic, and reporting standards—translating ambiguous business needs into measurable BI solutions.
+- Produced **documentation and SOPs** for data models, calculations, and reporting assumptions to support maintainability and stakeholder trust.
+
+---
+
+### 📈 Marketeq Digital, USA — Business Process Analyst Intern  
+**October 2024 – December 2024**
+
+- Analyzed **marketing and operational performance data** to identify process inefficiencies and improve reporting workflows for campaign execution and spend tracking.
+- Built **SQL queries and structured datasets** to validate data accuracy and support recurring reporting on **CPM, CTR, CPC, conversion rate, and ROI/ROAS** by channel and campaign.
+
+---
+
+### 🧩 Site Service Software Inc, USA — Data Analyst Intern  
+**June 2024 – September 2024**
+
+- Built and maintained **Power BI dashboards** using structured data models to support sales, pricing, and operational performance analysis.
+- Wrote **SQL queries and Python scripts** to clean, transform, and analyze pricing and revenue data, enabling faster ad-hoc insights.
+- Performed **data validation and reconciliation** to ensure accuracy of metrics used in leadership and client-facing reporting.
 
 
 
